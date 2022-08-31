@@ -94,3 +94,58 @@ a
     color: black;
     border-radius: 23px;
 }
+#outer1
+{
+height: 350px;
+width: 100%;
+}
+#top{
+    height: 100px;
+    width:100%;
+    text-align: center;
+}
+#bottom1
+{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+#bottom1 > div
+{
+    height: 100%;
+    width: 22%;
+    text-align: center;
+}
+.img_music{
+    border-radius: 50%;
+}
+p
+{
+    font-size: 14px;
+}
+#top1
+{
+    height: 100px;
+    width:100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+}
+#bottom2
+{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;  
+    background-color: black;
+    color: white;
+}
+#bottom2 > div
+{
+    height: 100%;
+    width: 22%;
+    text-align: center;
+}
